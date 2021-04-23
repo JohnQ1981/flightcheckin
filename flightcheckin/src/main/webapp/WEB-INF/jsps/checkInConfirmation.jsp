@@ -8,5 +8,6 @@
 </head>
 <body>
 Check In completed successfully.
+<hr> Go to Main page: <a href="/fc/">Main Page</a>
 </body>
 </html>

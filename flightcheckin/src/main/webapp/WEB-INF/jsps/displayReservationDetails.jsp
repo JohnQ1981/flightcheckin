@@ -24,7 +24,7 @@ Phone: ${reservation.passenger.phone}<br/>
 Enter the Number of Bags you want to check in: <input type="text" name ="numberOfBags"/>
 <input type="hidden" value ="${reservation.id}" name="reservationId"/>
 <input type="submit" value="Check In"/>
-
+${msg}
 </form>
 </body>
 </html>
